@@ -1,3 +1,6 @@
+# I ASKED GITHUB COPILOT TO DO THIS BECAUSE I'M NOT GOOD AT MAKING SHELL SCRIPTS
+
+
 # Unofficial Pelican Panel Installer 0.0.1
 
 ### 14 Jun 04 - New GitHub branch for updates and testing beta.v0.0.2
