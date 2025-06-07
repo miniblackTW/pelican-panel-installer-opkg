@@ -14,7 +14,7 @@ if ! command -v whiptail &> /dev/null; then
         print_error "Entware/opkg is not installed. Please install Entware via Synology Package Center or manually before continuing."
         exit 1
     fi
-    opkg update && opkg install whiptail
+    opkg install whiptail
     if [ $? -ne 0 ]; then print_error "Failed to install whiptail."; exit 1; fi
     print_success "whiptail installed."
 fi
