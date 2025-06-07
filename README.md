@@ -34,7 +34,7 @@ Download and run the installer to your VM or VPS. The installer will ask you som
 
 ### Download and set executable
 ```shell
-wget https://raw.githubusercontent.com/dazeb/pelican-installer/main/install_pelican.sh
+wget https://raw.githubusercontent.com/miniblackTW/pelican-panel-installer-opkg/main/install_pelican.sh
 chmod +x install_pelican.sh
 ```
 
@@ -69,7 +69,7 @@ You can run the script more than once. For instance, if you want to create a new
 
 ### Download and set executable
 ```shell
-wget https://raw.githubusercontent.com/dazeb/pelican-installer/main/webserver_config_nginx.sh
+wget https://raw.githubusercontent.com/miniblackTW/pelican-panel-installer-opkg/main/webserver_config_nginx.sh
 chmod +x webserver_config_nginx.sh
 ```
 
@@ -97,7 +97,7 @@ Same as before, download and run the script.
 
 ### Download and set executable
 ```shell
-wget https://raw.githubusercontent.com/dazeb/pelican-installer/main/install_wings.sh
+wget https://raw.githubusercontent.com/miniblackTW/pelican-panel-installer-opkg/main/webserver_config_nginx.sh
 chmod +x install_wings.sh
 ```
 
